@@ -9,15 +9,24 @@ Kosugi, M. and T. Teranishi, 1977,
 “Construction of a Curve Segment with Two Circular Arcs”,
  Transactions of the IECE of Japan, section E, vol. E60, No 11, p. 684 
 
+1986
+Toward efficient trajectory planning: The path-velocity decomposition
+K Kant, SW Zucker
+
+
+
+
 2006
 AUTONOMOUS NAVIGATION AND OBSTACLE AVOIDANCE FOR UNMANNED SURFACE VEHICLES
 Jacoby Larson, Michael Bruch, and John Ebken 
 
+2.1.2.1 Stationary obstacles 
  Also, since A* uses a cost analysis at each step, inserting an added cost for proximity to obstacles was a natural process. 
  This cost allows the USV to set a safety barrier around obstacles, which can also be adjusted for different obstacles.
  This cost analysis also can be extended for other costs such as direction, shipping lanes, soft obstacles, route time, etc. 
  
- 
+2.1.2.2 Moving obstacles 
+
 
 2007
 Advances in Autonomous Obstacle Avoidance for Unmanned Surface Vehicles 
